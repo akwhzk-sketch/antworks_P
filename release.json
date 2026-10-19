@@ -1,15 +1,15 @@
 {
-  "version": "0.8.0",
-  "sourceCommit": "60f8ea6e934520e6b6d305fbb5d51a7f0ce30b6c",
+  "version": "0.8.1",
+  "sourceCommit": "08432a066d06afb454f77a036de7f397e10c2351",
   "dirty": false,
   "mode": "static-local-simulation",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "CC0-LICENSE.txt": "c22d40244fb5eb874158bcf16cfb19197b10ce853831a594306807bb8caf54fd",
+    "THIRD_PARTY_NOTICES.md": "5afedd611742b581f1ca5bfd3d1ac08c972b0360abc3aca92a272647b4d2f5cf",
+    "THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
+    "assets/index-DYGmQChy.js": "e4d933faebf8ccfb34cec5410a2a1dec2c71f605cfd4f56f2ba64526556a3ed7",
     "assets/index-DhEj-2Im.css": "322541f5662210ec2563f137c695f2fd039ecad84b791ada5a0fdc6c1125984e",
-    "assets/index-UHp0dLOq.js": "cf5f0aefe84edd8bbf59ba47e411181770f44a5d6b73beca380195d526982797",
-    "CC0-LICENSE.txt": "812539149d82acd0ff30e3653d702f466a6bd6c0093f58cc305a6bb6393c2c47",
-    "index.html": "440ecb619212a0add97d7e86989e957984d700f15b6d192b7db74034c1d80be2",
-    "THIRD_PARTY_NOTICES.md": "bc318a3ecf54855c23a359b830e8afd84f61c668e8b3717f69ee72968645dca2",
-    "THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    "index.html": "a8c93eeae6a656ce833063e9ebe8ac25d0ef982afe0be9774e0db168a199ade8"
   }
 }
