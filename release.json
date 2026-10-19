@@ -1,15 +1,15 @@
 {
-  "version": "0.8.2",
-  "sourceCommit": "8ac1c2073b230af4f2f4b89ca498dcdb3cd02251",
+  "version": "0.8.3",
+  "sourceCommit": "0c9949b08eefac4e113e786373ec627bb943e4e9",
   "dirty": false,
   "mode": "static-local-simulation",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "CC0-LICENSE.txt": "c22d40244fb5eb874158bcf16cfb19197b10ce853831a594306807bb8caf54fd",
-    "THIRD_PARTY_NOTICES.md": "5afedd611742b581f1ca5bfd3d1ac08c972b0360abc3aca92a272647b4d2f5cf",
+    "THIRD_PARTY_NOTICES.md": "63039ac57deefccd219dedce116b47a885fb53548869676e0d22a7134b0fbd18",
     "THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
     "assets/index-DhEj-2Im.css": "322541f5662210ec2563f137c695f2fd039ecad84b791ada5a0fdc6c1125984e",
-    "assets/index-DndAHyLS.js": "134e6ec246adcb89748f42eaf68df7cb87097e91b01df04674d293dc260a9e20",
-    "index.html": "064046bdc983b79d0793ae06f75d131fbd49b4f9209ae9129b02a6b40d3a6ab2"
+    "assets/index-Dmjn-e2u.js": "50b37ad714993ebd4318f48f6c0ba7b7b156359d4cc70e2e34e2e37466b83b9f",
+    "index.html": "4cb8c2d9d6ae30af3090b7c5c79ab0e91978fef6c8472a6c67309124d796500b"
   }
 }
