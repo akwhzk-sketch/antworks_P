@@ -1,0 +1,14 @@
+{
+  "version": "0.6.0",
+  "sourceCommit": "b1493306c702a0644cc8c84630e479a6920ca26a",
+  "dirty": false,
+  "mode": "static-local-simulation",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "THIRD_PARTY_NOTICES.md": "800402997eda913a74a5b24118d719a003d407725516bc886d651553ad7f82e5",
+    "THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
+    "assets/index-9RfY4q3j.css": "cdbe2741ea27e89f4f98fd7af0084d16b242ddc1399f708fd3fec8f02f165a1d",
+    "assets/index-rEJUUueY.js": "dba980a16db0b137abf83c5d4436ee52bc3ee2ccaeb1239c5359657a987e1d11",
+    "index.html": "9883f4e1a56224b0fb6668283c7e6ca6fe9e5bd0fb31946ddfb7dd29b96486de"
+  }
+}
