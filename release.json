@@ -1,6 +1,6 @@
 {
-  "version": "0.9.3",
-  "sourceCommit": "7d88161c964a0e9766be084412317383969301c7",
+  "version": "0.9.4",
+  "sourceCommit": "03142633cfee08e68587b6bea023ffbd93a8d76d",
   "dirty": false,
   "mode": "static-local-simulation",
   "files": {
@@ -9,7 +9,7 @@
     "THIRD_PARTY_NOTICES.md": "63039ac57deefccd219dedce116b47a885fb53548869676e0d22a7134b0fbd18",
     "THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
     "assets/index-BqBods1c.css": "d020a616723e34ea84ebda463a59585d2aa5046ff875b78cc929e09be2f3d965",
-    "assets/index-C4wFH4OS.js": "24bd3d19a8433ae8d262cabf8f1fdd79dcec54d8405b63e63ee9f68cb8853abf",
-    "index.html": "a37f9bdc0567ce2f19e0b95a4d19ec14bc1c4cf5bcf9ed177934bcfe9ee47855"
+    "assets/index-Ca4BQRXZ.js": "7eb330e21113a7654a9ded344457cebfd38c5ffe54f182ac1804379dfc0285ac",
+    "index.html": "d6872ac6fe3f1e506d88b523c0e9fd6ebede993004f80d9c09882c158bf10ff1"
   }
 }
