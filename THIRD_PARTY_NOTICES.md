@@ -43,3 +43,7 @@ The fitted coat shell derives its selected body/arm triangles and skin weights f
 ## V11 / 0.9.15 additions
 
 The snow and bark relief textures, curved grass geometry and visual wind, procedural hair/accessories and clothing pattern variants are original project additions. Human body/skeleton/motion and existing ambientCG photographs reuse the licenses and sources recorded above. Body/garment modifications remain derivatives of the existing licensed base meshes. No new third-party game code, models, paid resources or generated marketing images were added as runtime evidence.
+
+## V11 / 0.9.20 camp and aquatic display
+
+Camp board/trim/rivet/planter/string-light/log/smoke geometry and finite-stock fish visualization are original project code in src/camp-art.ts, src/camp-art-layout.ts and src/aquatic-scene.ts. They reuse the project's original wood surface generator; existing ground/metal photographs, humans, hare/predator meshes and audio retain the audited sources above. No new external asset, paid service or reference-game content was downloaded. Planters are cosmetic, logs read actual inventory, and displayed fish are a bounded visualization of pond stock, not independent fish agents. The reference photograph was unavailable in this cloud environment; the user-approved textual description guided the art direction.
