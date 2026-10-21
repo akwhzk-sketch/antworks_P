@@ -1,6 +1,6 @@
 {
-  "version": "0.9.22",
-  "sourceCommit": "c3c9479f2da0c875daaf3fd70804c14f88f14354",
+  "version": "0.9.23",
+  "sourceCommit": "901741797c1299278e0cb1b3d3ebe08c945fceb2",
   "dirty": false,
   "mode": "static-local-simulation",
   "files": {
@@ -8,8 +8,8 @@
     "CC0-LICENSE.txt": "c22d40244fb5eb874158bcf16cfb19197b10ce853831a594306807bb8caf54fd",
     "THIRD_PARTY_NOTICES.md": "8a4a424157fef0b4a727cb61d8c3318e6af3efceefd463dd1e4f376894df32e6",
     "THREE-LICENSE.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
-    "assets/index-DSE2F3zE.js": "c723d99a204e0d5ff9c6ee33f95e8219811678e4354b56666d914b8ba1c943f6",
+    "assets/index-BRm0JzoV.js": "99965ffd036b79b2b8dca27537e178c7e651030a0904affab3cdf1a5b49ea136",
     "assets/index-DxVfwQ3F.css": "8dae41097b189bd257a3bb6ba044b47ffe5411bca191ec84107a2bdc3893baba",
-    "index.html": "5590a877cc1d82d33b370aaae77b9c29a5e9b10fae52fdcdfa3d58f499d5a58a"
+    "index.html": "21b7674b5aba4f2f9d0a7500a4d85afeeb2894c9c014546469af58bbe8ad4702"
   }
 }
